@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BQ79656-Q1")(type "KiCad")(uri "/Users/anikethtarikonda/Desktop/e7_BMS_PDU/lib/BQ79656/BQ79656-Q1.kicad_sym")(options "")(descr ""))
+  (lib (name "ISO7742x")(type "KiCad")(uri "/Users/anikethtarikonda/Desktop/e7_BMS_PDU/lib/ISO7742/ISO7742x.kicad_sym")(options "")(descr ""))
+)
