@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BQ79656-Q1")(type "KiCad")(uri "C:/Users/anike/e7_BMS_PDU/lib/BQ79656/BQ79656-Q1.kicad_sym")(options "")(descr ""))
+  (lib (name "ISO7742x")(type "KiCad")(uri "C:/Users/anike/e7_BMS_PDU/lib/ISO7742/ISO7742x.kicad_sym")(options "")(descr ""))
+  (lib (name "LM70660")(type "KiCad")(uri "C:/Users/anike/e7_BMS_PDU/lib/LM70660/LM70660.kicad_sym")(options "")(descr ""))
+  (lib (name "SRR1208-100ML")(type "KiCad")(uri "C:/Users/anike/e7_BMS_PDU/lib/SRR1208-100ML/SRR1208-100ML.kicad_sym")(options "")(descr ""))
+  (lib (name "SKA60A-15")(type "KiCad")(uri "C:/Users/anike/e7_BMS_PDU/lib/SKA60A-15/SKA60B-15.kicad_sym")(options "")(descr ""))
+  (lib (name "SKE15")(type "KiCad")(uri "C:/Users/anike/e7_BMS_PDU/lib/SKE15/SKE15.kicad_sym")(options "")(descr ""))
+)
