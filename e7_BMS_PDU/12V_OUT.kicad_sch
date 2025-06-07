@@ -7390,6 +7390,12 @@
 		(uuid "98ef30d4-3cb0-4687-b7b0-e6399d33dce6")
 	)
 	(junction
+		(at 204.47 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a6c2ca06-0f43-481a-a7a6-20b261f64338")
+	)
+	(junction
 		(at 151.13 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7503,7 +7509,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 44.45) (xy 199.39 54.61)
+			(xy 204.47 44.45) (xy 204.47 54.61)
 		)
 		(stroke
 			(width 0)
@@ -7963,7 +7969,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 44.45) (xy 215.9 44.45)
+			(xy 212.09 44.45) (xy 215.9 44.45)
 		)
 		(stroke
 			(width 0)
@@ -8243,6 +8249,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 44.45) (xy 203.2 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1af34c3-af86-45ac-a951-118415393b0e")
+	)
+	(wire
+		(pts
 			(xy 106.68 152.4) (xy 106.68 149.86)
 		)
 		(stroke
@@ -8293,7 +8309,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 54.61) (xy 199.39 54.61)
+			(xy 151.13 54.61) (xy 204.47 54.61)
 		)
 		(stroke
 			(width 0)
@@ -12404,7 +12420,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 207.01 44.45 90)
+		(at 208.28 44.45 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12413,7 +12429,7 @@
 		(fields_autoplaced yes)
 		(uuid "b5c042a0-920d-4cf5-8eae-297004b37711")
 		(property "Reference" "R49"
-			(at 207.01 38.1 90)
+			(at 208.28 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12421,7 +12437,7 @@
 			)
 		)
 		(property "Value" "6m"
-			(at 207.01 40.64 90)
+			(at 208.28 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12429,7 +12445,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
-			(at 207.01 46.228 90)
+			(at 208.28 46.228 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12438,7 +12454,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 207.01 44.45 0)
+			(at 208.28 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12447,7 +12463,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 207.01 44.45 0)
+			(at 208.28 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
